@@ -35,7 +35,12 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
-            <!-- Social -->
+      </div>
+    {% endif %}
+
+    <div class="clearfix">{{ content }}</div>
+
+        <!-- Social -->
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
@@ -43,10 +48,6 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
-      </div>
-    {% endif %}
-
-    <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
