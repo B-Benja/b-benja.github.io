@@ -3,12 +3,8 @@
     url: https://www.emilioraiteri.com/
 
 "bekkers":
-  - firstname: ["Rudi", "R."]
+  - firstname: ["Rudi", "R.", "Rudi NA"]
     url: https://rudibekkers.com/
-
-"maharjan":
-  - firstname: ["Prapti", "P."]
-    url: https://research.tue.nl/nl/persons/prapti-maharjan
 
 "coninck":
   - firstname: ["Heleen de", "H."]
