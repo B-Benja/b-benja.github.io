@@ -38,16 +38,18 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
-
-        <!-- Social -->
+    <div class="clearfix">{{ content }}
+    
+            <!-- Social -->
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
-    {% endif %}
+    {% endif %}</div>
+
+
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
