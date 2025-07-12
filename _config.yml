@@ -296,7 +296,7 @@ scholar:
   group_by: type
   group_order: descending
 
-  type_names: {unpublished: Working papers, report: Technical reports, article: Publications in peer-reviewed journals, inproceedings: Conference papers}
+  type_names: {unpublished: Working papers, report: Technical reports, article: Publications in peer-reviewed journals, inproceedings: Working papers}
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
