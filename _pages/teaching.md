@@ -17,7 +17,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
     <strong class="teaching-title">Network Society: Citation Networks</strong>
     · Lecture<br>
     <details style="display:inline;">
-      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 500;">Details</summary>
+      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color)">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught students how to analyze and interpret patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply concepts to real citation data.</p>
         <p><small class="text-grey-dk"><em>Focus: citation graphs, connectivity, network metrics</em></small></p>
@@ -29,7 +29,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
     <strong class="teaching-title">Patents, Design Rights & Standards</strong>
     · Seminar<br>
     <details style="display:inline;">
-      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 500;">Details</summary>
+      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color)">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Supported teaching in a seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams.</p>
         <p><small class="text-grey-dk"><em>Focus: patent value, IP strategy, standardization politics, licensing pools</em></small></p>
@@ -41,7 +41,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
     <strong class="teaching-title">Economics of Innovation: Introduction</strong>
     · Seminar<br>
     <details style="display:inline;">
-      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 500;">Details</summary>
+      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color)">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led discussions.</p>
         <p><small class="text-grey-dk"><em>Focus: IP, innovation systems, diffusion</em></small></p>
@@ -53,7 +53,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
     <strong class="teaching-title">Economic Policy</strong>
     · Seminar<br>
     <details style="display:inline;">
-      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 500;">Details</summary>
+      <summary style="display:inline; cursor:pointer; color: var(--global-theme-color)">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Ran seminars on microeconomic foundations of policy. Led exercises on market failures, basic economic theory, and the role of public policy in shaping innovation.</p>
         <p><small class="text-grey-dk"><em>Focus: economics, innovation policy, markets</em></small></p>
@@ -67,7 +67,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
 
 
 <details>
-  <summary>Student Evaluations – Selection (click to expand)</summary>
+  <summary style=color: var(--global-theme-color)>Student Evaluations – Selection (click to expand)</summary>
   <div style="margin-top: 10px;">
     <p>
       These are selected results from anonymous student evaluations for courses where I lectured or led seminars.
