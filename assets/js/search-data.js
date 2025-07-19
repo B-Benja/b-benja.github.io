@@ -47,6 +47,21 @@ ninja.data = [{
           description: "extracting legal boundaries of inventions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-tracing-science-in-patents",
+          title: 'Tracing Science in Patents',
+          description: "identifying patent–paper pairs through visual and textual overlap",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/a/";
+            },},{id: "projects-scraping-patent-claims",
+          title: 'Scraping Patent Claims',
+          description: "extracting legal boundaries of inventions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/b/";
+            },},{id: "projects-scraping-patent-claims",
+          title: 'Scraping Patent Claims',
+          description: "extracting legal boundaries of inventions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/c/";
             },},{
         id: 'social-email',
         title: 'email',
