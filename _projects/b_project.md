@@ -11,7 +11,7 @@ related_publications: false
 Chocolatey is a developer-centric package manager that allows you to install and update Windows applications via the command line. It automates the installation process and ensures you always use the latest version from trusted sources.
 
 ## Why use Chocolatey?
-- Downloads and verifies installers from official sources (checksums and moderated installation scripts)
+- Downloads and verifies installers from official sources (checksum validation; moderated installation scripts)
 - Handles updates automatically
 - Easy batch install and setup for new machines
 - Reduces time spent managing software manually
