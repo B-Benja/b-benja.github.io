@@ -18,8 +18,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
     Lecturer · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
-        <p>Taught students how to analyze and interpret patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply concepts to real citation data.</p>
-        <p><small class="text-grey-dk"><em>Focus: citation graphs, connectivity, network metrics</em></small></p>
+        <p>Gave lectures on analyzing and interpreting patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply learned concepts to real citation data to explore technological trajectories.</p>
+        <p><small class="text-grey-dk"><em>Focus: network analysis, knowledge flows, citation data</em></small></p>
       </div>
     </details>
   </li>
@@ -29,8 +29,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
     Seminar Instructor · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
-        <p>Supported teaching in a seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams.</p>
-        <p><small class="text-grey-dk"><em>Focus: patent value, IP strategy, standardization politics, licensing pools</em></small></p>
+        <p>Held seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams. Students learned how to use IP data to understand technological landscapes.</p>
+        <p><small class="text-grey-dk"><em>Focus: patents, IP strategy, standardization, patent landscaping</em></small></p>
       </div>
     </details>
   </li>
@@ -40,8 +40,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
     Seminar Instructor · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
-        <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led discussions.</p>
-        <p><small class="text-grey-dk"><em>Focus: IP, innovation systems, diffusion</em></small></p>
+        <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led presentations and discussions.</p>
+        <p><small class="text-grey-dk"><em>Focus: IP, innovation systems, economics of innovation</em></small></p>
       </div>
     </details>
   </li>
@@ -50,10 +50,10 @@ I’ve contributed to several university courses, ranging from lectures to semin
     <strong class="teaching-title">Economic Policy</strong><br>
     Seminar Instructor · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
-      <div style="margin-top: 0.5em;">
-        <p>Ran seminars on microeconomic foundations of policy. Led exercises on market failures, basic economic theory, and the role of public policy in shaping innovation.</p>
-        <p><small class="text-grey-dk"><em>Focus: economics, innovation policy, markets</em></small></p>
-      </div>
+    <div style="margin-top: 0.5em;">
+      <p>Led the seminar accompanying the main Economic Policy lecture. Students worked through weekly problem sets focused on policy-relevant microeconomic mechanisms such as market failures, externalities, and public incentives. Sessions emphasized connecting theory to concrete policy examples.</p>
+      <p><small class="text-grey-dk"><em>Focus: microeconomics, economic policy</em></small></p>
+    </div>
     </details>
   </li>
 
