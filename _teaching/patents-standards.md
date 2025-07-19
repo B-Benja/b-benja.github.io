@@ -3,6 +3,8 @@ layout: page
 title: "Patents, Design Rights & Standards"
 role: "Teaching Assistant (Seminar)"
 institution: "TU Eindhoven"
+focus: "patent value, IP strategy, standardization politics, licensing pools"
+permalink: /teaching/patents-standards/
 ---
 
 I acted as a teaching assistant in this seminar covering the strategic use of intellectual property rights and standardization in innovation. My tasks included reinforcing core concepts during seminar sessions, addressing student questions from the main lecture, and grading student presentations and final exams.

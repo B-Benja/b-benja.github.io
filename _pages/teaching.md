@@ -9,23 +9,19 @@ nav_order: 6
 
 ## University Teaching
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-  {% assign sorted_teaching = site.teaching | sort: 'title' %}
-  {% for item in sorted_teaching %}
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">{{ item.title }}</h5>
-        <h6 class="card-subtitle mb-2 text-muted">{{ item.institution }} – {{ item.role }}</h6>
-        <p class="card-text">{{ item.excerpt | markdownify }}</p>
-        {% if item.focus %}
-        <p><strong>Focus:</strong> {{ item.focus }}</p>
-        {% endif %}
-        <a href="{{ item.url | relative_url }}" class="card-link">More info</a>
-      </div>
-    </div>
+<div class="projects">
+{% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_teaching = site.teaching | where: "category", category %}
+  {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for t in sorted_teaching %}
+      {% include projects.liquid project=t %}
+    {% endfor %}
   </div>
-  {% endfor %}
+{% endfor %}
 </div>
 
 ---
