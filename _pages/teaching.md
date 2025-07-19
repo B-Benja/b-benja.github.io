@@ -9,48 +9,47 @@ nav_order: 6
 ---
 
 ## University Teaching
-### Network Society: Citation Networks <span class="label label-purple">Lecturer</span>  
-**TU Eindhoven**  
-In this lecture-based course, I taught students how to analyze and interpret patent-citation networks. I designed and delivered sessions covering directed graphs, network metrics (e.g. degree, closeness, betweenness), and citation data structure. Students worked with the software package `Pajek` to apply these concepts to real-world citation data.  
-<span class="label label-light">Focus: citation graphs, connectivity, network metrics</span>
 
----
+<div class="teaching-block">
+  <p><strong>Network Society: Citation Networks</strong>
+    <span class="text-purple" style="font-weight:normal;">· Lecturer</span><br>
+    <em>TU Eindhoven</em>
+  </p>
+  <p>Taught students how to analyze and interpret patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply concepts to real citation data.</p>
+  <p><small class="text-grey-dk"><em>Focus: citation graphs, connectivity, network metrics</em></small></p>
+</div>
+<hr>
 
-### Patents, Design Rights & Standards <span class="label label-teal">Seminar / TA</span>  
-**TU Eindhoven**  
-I acted as a teaching assistant in this seminar covering the strategic use of IP rights and standardization in innovation. My tasks included reinforcing concepts during the seminars, addressing questions that came up during the main lecture, as well as grading presentations and exams.  
-<span class="label label-light">Focus: patent value, IP strategy, standardization politics, licensing pools</span>
+<div class="teaching-block">
+  <p><strong>Patents, Design Rights & Standards</strong>
+    <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
+    <em>TU Eindhoven</em>
+  </p>
+  <p>Supported teaching in a seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams.</p>
+  <p><small class="text-grey-dk"><em>Focus: patent value, IP strategy, standardization politics, licensing pools</em></small></p>
+</div>
+<hr>
 
----
+<div class="teaching-block">
+  <p><strong>Economics of Innovation: Introduction</strong>
+    <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
+    <em>TU Eindhoven</em>
+  </p>
+  <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led discussions.</p>
+  <p><small class="text-grey-dk"><em>Focus: IP, innovation systems, diffusion</em></small></p>
+</div>
+<hr>
 
-### Economics of Innovation: Introduction <span class="label label-teal">Seminar / TA</span>  
-**TU Eindhoven**  
-I taught the seminar accompanying the main lecture, helping students deepen their understanding of why firms, sectors, and countries innovate differently. The sessions were used to practice core concepts, work through empirical examples, and address student questions related to the lecture material.  
-<span class="label label-light">Focus: IP, innovation systems, diffusion</span>
-
----
-
-### Economic Policy <span class="label label-teal">Seminar / TA</span>  
-**TU Eindhoven**  
-I taught the seminar accompanying the main lecture, guiding students through core microeconomic concepts and their relevance for policy. Seminar sessions focused on applying theory to problem sets and discussing examples of basic economic concepts, market failures, and innovation policy.  
-<span class="label label-light">Focus: economics, innovation policy, markets</span>
+<div class="teaching-block">
+  <p><strong>Economic Policy</strong>
+    <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
+    <em>TU Eindhoven</em>
+  </p>
+  <p>Ran seminars on microeconomic foundations of policy. Led exercises on market failures, basic economic theory, and the role of public policy in shaping innovation.</p>
+  <p><small class="text-grey-dk"><em>Focus: economics, innovation policy, markets</em></small></p>
+</div>
 
 
----
-
-## Bachelor’s and Master’s Theses Supervision
-Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Topics include:  
-- Fuel Cell and Battery Electric Vehicles  
-- Patent Landscaping on Structural Ice Moulds  
-- Tiny house movement Netherlands
-
----
-
-## Language Teaching
-- **China:** Taught German at universities and private schools (beginner to advanced).  
-- **Japan:** Taught German to university students and professionals. Focus on fluency and pragmatics.
-
----
 
 <details>
   <summary>Student Evaluations – Selection (click to expand)</summary>
@@ -75,3 +74,19 @@ Supervised/co-supervised BSc and MSc theses in economics and innovation studies.
     </figure>
   </div>
 </details>
+
+
+---
+
+## Bachelor’s and Master’s Theses Supervision
+Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Topics include:  
+- Fuel Cell and Battery Electric Vehicles  
+- Patent Landscaping on Structural Ice Moulds  
+- Tiny house movement Netherlands
+
+---
+
+## Language Teaching
+- **China:** Taught German at universities and private schools (beginner to advanced).  
+- **Japan:** Taught German to university students and professionals. Focus on fluency and pragmatics.
+
