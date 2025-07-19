@@ -62,9 +62,9 @@ ninja.data = [{
           description: "extracting legal boundaries of inventions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "teaching-economics-of-innovation-introduction",
-          title: 'Economics of Innovation: Introduction',
-          description: "Seminar on why firms and countries innovate differently",
+            },},{id: "teaching-",
+          title: '',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/econ-innovation/";
             },},{id: "teaching-economic-policy",
@@ -72,9 +72,9 @@ ninja.data = [{
           description: "Seminar on microeconomic tools for policy",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/econ-policy/";
-            },},{id: "teaching-network-society-citation-networks",
-          title: 'Network Society: Citation Networks',
-          description: "Lecture on patent-citation network structure",
+            },},{id: "teaching-",
+          title: '',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/network-society/";
             },},{id: "teaching-patents-design-rights-amp-standards",
