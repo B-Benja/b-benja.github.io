@@ -9,31 +9,37 @@ nav_order: 6
 
 ## University Teaching
 
-{% assign sorted_teaching = site.teaching | sort: 'year' | reverse %}
-{% for item in sorted_teaching %}
-### {{ item.title }}  
-**{{ item.institution }}**  
-*{{ item.role }}, {{ item.year }}*  
-{{ item.content | markdownify }}
-
-*Focus: {{ item.focus }}*
-
-{% endfor %}
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  {% assign sorted_teaching = site.teaching | sort: 'title' %}
+  {% for item in sorted_teaching %}
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">{{ item.title }}</h5>
+        <h6 class="card-subtitle mb-2 text-muted">{{ item.institution }} – {{ item.role }}</h6>
+        <p class="card-text">{{ item.excerpt | markdownify }}</p>
+        {% if item.focus %}
+        <p><strong>Focus:</strong> {{ item.focus }}</p>
+        {% endif %}
+        <a href="{{ item.url | relative_url }}" class="card-link">More info</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
 
 ---
 
-## Thesis Supervision
-
-**Bachelor’s and Master’s Theses**  
-Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Selection of topics:  
-- Fuel Cell and Battery Electric Vehicles: A Comparative Patent Landscape Analysis  
+## Bachelor’s and Master’s Theses Supervision
+Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Topics include:  
+- Fuel Cell and Battery Electric Vehicles  
 - Patent Landscaping on Structural Ice Moulds  
-- Tiny house movement Netherlands  
+- Tiny house movement Netherlands
 
 ---
 
 ## Language Teaching
-- **China:** Taught academic/conversational German at universities and private schools (beginner to advanced).  
+- **China:** Taught German at universities and private schools (beginner to advanced).  
 - **Japan:** Taught German to university students and professionals. Focus on fluency and pragmatics.
 
 ---
