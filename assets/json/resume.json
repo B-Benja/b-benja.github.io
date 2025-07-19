@@ -5,7 +5,7 @@
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "I analyze how public science translates into innovation using IP data, machine learning, and econometrics. My work focuses on patent-paper links, disclosure, and diffusion barriers.",
+    "summary": "I analyze how public science translates into innovation using IP data, machine learning, and econometrics. My work focuses on disclosure, diffusion barriers, and the societal and economic impact.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -20,7 +20,7 @@
       "name": "Eindhoven University of Technology",
       "position": "Postdoctoral Researcher",
       "url": "",
-      "startDate": "2024-02-01",
+      "startDate": "2024",
       "summary": "Developed scalable methods to identify patent\u2013paper pairs using deep learning applied to text, figures, and metadata from patents and scientific articles.",
       "highlights": [
         "Trained neural networks for image- and text-based similarity",
@@ -32,7 +32,7 @@
       "name": "Eindhoven University of Technology",
       "position": "PhD Candidate",
       "url": "",
-      "startDate": "2019-06-01",
+      "startDate": "2019",
       "summary": "Studied how diffusion barriers affect the reuse of scientific knowledge using patent data, machine learning, and econometrics.",
       "highlights": [
         "Analyzed machine translation effects on cross-border citation flows",
@@ -42,10 +42,10 @@
     },
     {
       "name": "Jiangsu University of Technology",
-      "position": "Academic & Team Leader",
+      "position": "Lecturer & Team Leader",
       "url": "",
-      "startDate": "2017-01-01",
-      "endDate": "2019-01-01",
+      "startDate": "2017",
+      "endDate": "2019",
       "summary": "Managed international academic team; taught cultural, sociological, and linguistic topics; German language instruction.",
       "highlights": []
     },
@@ -53,7 +53,8 @@
       "name": "Sophia University",
       "position": "Researcher",
       "url": "",
-      "startDate": "2017-01-01",
+      "startDate": "2017",
+      "endDate": "2017",
       "summary": "Part of research team evaluating western waste management concepts in East Asia.",
       "highlights": [
         "Collected data using T-SQL",
@@ -63,8 +64,8 @@
     {
       "name": "Siemens AG",
       "position": "Working Student, Export Control & Customs",
-      "startDate": "2015-01-01",
-      "endDate": "2017-01-01",
+      "startDate": "2015",
+      "endDate": "2017",
       "summary": "Assisted divisions worldwide on export compliance; analyzed data using Excel, VBA, and Access.",
       "highlights": []
     }
@@ -74,15 +75,15 @@
       "institution": "FAU Erlangen-N\u00fcrnberg",
       "area": "Sociology & Pedagogy",
       "studyType": "B.A.",
-      "startDate": "2011-01-01",
-      "endDate": "2016-01-01"
+      "startDate": "2011",
+      "endDate": "2016"
     },
     {
       "institution": "FAU Erlangen-N\u00fcrnberg",
       "area": "Sociology",
       "studyType": "M.A.",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
+      "startDate": "2016",
+      "endDate": "2018"
     }
   ],
   "skills": [
@@ -148,21 +149,28 @@
   "volunteer": [
     {
       "organization": "TIS PhD community committee",
-      "position": "Committee Member",
-      "startDate": "2021-01-01",
-      "endDate": "2024-01-01"
+      "position": "Committee Founder",
+      "startDate": "2021",
+      "endDate": "2024"
     },
     {
       "organization": "ICU Tokyo \u2013 SUDre Workshop",
       "position": "Workshop Organizer",
-      "startDate": "2017-01-01"
+      "startDate": "2017",
+      "endDate": "2017"
     },
     {
       "organization": "AWO Germany",
       "position": "Elderly Care Volunteer",
-      "startDate": "2010-01-01",
-      "endDate": "2012-01-01"
-    }
+      "startDate": "2010",
+      "endDate": "2012"
+    },
+    {
+      "organization": "AWO Germany",
+      "position": "Caretaker for persons with disabilities",
+      "startDate": "2008",
+      "endDate": "2010"
+    }    
   ],
   "interests": [
     {
