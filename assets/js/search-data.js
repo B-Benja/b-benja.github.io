@@ -51,17 +51,17 @@ ninja.data = [{
           title: 'Zotero',
           description: "Tutorial for the open-source bibliography and citation manager Zotero.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/a/";
+              window.location.href = "/projects/3_other/";
             },},{id: "projects-chocolatey",
           title: 'Chocolatey',
           description: "how to use the package manager for Windows",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/b/";
+              window.location.href = "/projects/4_other/";
             },},{id: "projects-scraping-patent-claims",
           title: 'Scraping Patent Claims',
           description: "extracting legal boundaries of inventions",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/c/";
+              window.location.href = "/projects/5_other/";
             },},{id: "teaching-economics-of-innovation-introduction",
           title: 'Economics of Innovation: Introduction',
           description: "",
