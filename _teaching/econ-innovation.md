@@ -7,7 +7,6 @@ role: Seminar Instructor
 category: university
 importance: 2
 img: /assets/img/teaching/econ_inno_intro.png
-permalink: /teaching/econ-innovation/
 ---
 
 Accompanying seminar to the main lecture. Covered empirical examples and key concepts in innovation systems and diffusion.

@@ -7,7 +7,6 @@ role: Seminar Instructor
 category: university
 importance: 3
 img: /assets/img/teaching/econ_pol.png
-permalink: /teaching/econ-policy/
 ---
 
 Seminar focused on applying economic theory to policy. Students worked on examples of market failures, R&D subsidies, and regulation.

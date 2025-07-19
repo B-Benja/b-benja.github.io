@@ -11,18 +11,12 @@ nav_order: 6
 ## University Teaching
 
 <div class="projects">
-{% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_teaching = site.teaching | where: "category", category %}
-  {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
+  {% assign sorted_teaching = site.teaching | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for t in sorted_teaching %}
       {% include projects.liquid project=t %}
     {% endfor %}
   </div>
-{% endfor %}
 </div>
 
 ---
