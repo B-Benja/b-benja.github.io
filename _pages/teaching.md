@@ -9,10 +9,15 @@ nav_order: 6
 
 ## University Teaching
 
-{% for course in site.teaching %}
-### {{ course.title }} ({{ course.role }})  
-**{{ course.institution }}**  
-{{ course.content | markdownify }}
+{% assign sorted_teaching = site.teaching | sort: 'year' | reverse %}
+{% for item in sorted_teaching %}
+### {{ item.title }}  
+**{{ item.institution }}**  
+*{{ item.role }}, {{ item.year }}*  
+{{ item.content | markdownify }}
+
+*Focus: {{ item.focus }}*
+
 {% endfor %}
 
 ---
@@ -20,8 +25,7 @@ nav_order: 6
 ## Thesis Supervision
 
 **Bachelor’s and Master’s Theses**  
-Supervised/co-supervised BSc and MSc theses in economics and innovation studies.  
-**Selected topics include:**  
+Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Selection of topics:  
 - Fuel Cell and Battery Electric Vehicles: A Comparative Patent Landscape Analysis  
 - Patent Landscaping on Structural Ice Moulds  
 - Tiny house movement Netherlands  
@@ -29,8 +33,6 @@ Supervised/co-supervised BSc and MSc theses in economics and innovation studies.
 ---
 
 ## Language Teaching
-
-### German as a Second Language  
 - **China:** Taught academic/conversational German at universities and private schools (beginner to advanced).  
 - **Japan:** Taught German to university students and professionals. Focus on fluency and pragmatics.
 
