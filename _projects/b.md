@@ -4,7 +4,7 @@ title: Scraping Patent Claims
 description: extracting legal boundaries of inventions
 img: assets/img/claims_background.jpg
 importance: 2
-category: work
+category: other
 related_publications: false
 ---
 
