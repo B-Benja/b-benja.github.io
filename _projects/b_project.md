@@ -104,7 +104,7 @@ choco install texstudio -y
 choco install vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
 ```
 
-Full `.bat` script: [Chocolatey_myInstallScript.bat](/Chocolatey_myInstallScript.bat)
+Full `.bat` script: [Chocolatey_myInstallScript.bat](https://github.com/B-Benja/chocolatey_tutorial/blob/main/Chocolatey_myInstallScript.bat)
 
 ## Updating software
 Check for updates:
