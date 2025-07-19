@@ -8,13 +8,24 @@ category: other
 related_publications: false
 ---
 
-Chocolatey is a developer-centric package manager that allows you to install and update Windows applications via the command line. It automates the installation process and ensures you always use the latest version from trusted sources.
+## What is Chocolatey?
+Chocolatey is a developer-centric package manager that allows you to install and update Windows applications through a command line interface. Unlike manual installations, Chocolatey handles the process of adding, updating, and uninstalling programs in the background, requiring very little user interaction.
 
-## Why use Chocolatey?
-- Downloads and verifies installers from official sources (checksum validation; moderated installation scripts)
-- Handles updates automatically
-- Easy batch install and setup for new machines
-- Reduces time spent managing software manually
+The project is community-driven, and the package feed is maintained by members of the Chocolatey community.
+
+Most Chocolatey packages are designed to download an application's official executable and install it without further user interaction.
+
+## Advantages?
+* Chocolatey installs programs mainly from official sources, ensuring that you get the latest and most secure versions.
+* It provides an easy 'one click' solution for downloading and updating software, with a vast selection of available and well-maintained programs.
+* You still have control over the updating schedule, and there's no need to manually check for updates.
+
+## How does it work?
+1.	Install Chocolatey via PowerShell.
+2.	Check the Chocolatey website for the programs you want to install. ([the website](https://community.chocolatey.org/packages))
+3.	Install them via PowerShell
+4.	Keep your programs up-to-date with Chocolatey & other maintenance tasks.
+
 
 ## Installing Chocolatey
 Run the following in an elevated PowerShell window:
@@ -24,6 +35,34 @@ Run the following in an elevated PowerShell window:
 ```
 
 See [official documentation](https://chocolatey.org/install).
+
+
+## Find the programs you want to install
+The [Chocolatey Website](https://community.chocolatey.org/packages) lists all available packages. For each package, you can find detailed information about the software, installation, update, and uninstallation commands.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/small_projects/choco1.png" title="chocolatey" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
+
+For example, if you want to install [Firefox](https://community.chocolatey.org/packages/Firefox#install), you can find the relevant commands and additional parameters available for the installation command - e.g. to create a taskbar shortcut, configure auto update, etc.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/small_projects/choco2.png" title="chocolatey" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
+
 
 ## Installing software
 Find packages at [community.chocolatey.org/packages](https://community.chocolatey.org/packages).
