@@ -14,8 +14,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
 <ul class="teaching-list">
 
   <li class="teaching-block">
-    <strong class="teaching-title">Network Society: Citation Networks</strong>
-    · Lecture · <details style="display:inline;">
+    <strong class="teaching-title">Network Society: Citation Networks</strong><br>
+    Lecturer · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught students how to analyze and interpret patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply concepts to real citation data.</p>
@@ -25,8 +25,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
   </li>
 
   <li class="teaching-block">
-    <strong class="teaching-title">Patents, Design Rights & Standards</strong>
-    · Seminar · <details style="display:inline;">
+    <strong class="teaching-title">Patents, Design Rights & Standards</strong><br>
+    Seminar Instructor · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Supported teaching in a seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams.</p>
@@ -36,8 +36,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
   </li>
 
   <li class="teaching-block">
-    <strong class="teaching-title">Economics of Innovation: Introduction</strong>
-    · Seminar · <details style="display:inline;">
+    <strong class="teaching-title">Economics of Innovation: Introduction</strong><br>
+    Seminar Instructor · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led discussions.</p>
@@ -47,8 +47,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
   </li>
 
   <li class="teaching-block">
-    <strong class="teaching-title">Economic Policy</strong>
-    · Seminar · <details style="display:inline;">
+    <strong class="teaching-title">Economic Policy</strong><br>
+    Seminar Instructor · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Ran seminars on microeconomic foundations of policy. Led exercises on market failures, basic economic theory, and the role of public policy in shaping innovation.</p>
@@ -97,6 +97,7 @@ Supervised/co-supervised BSc and MSc theses in economics and innovation studies.
 ---
 
 ## Language Teaching
-- **China:** Taught German at universities and private schools (beginner to advanced)  
-- **Japan:** Taught German to university students and professionals 
+Taught German as a foreign language in both formal and informal settings, focusing on communication, culture and context-specific language use.
+- **China:** At universities and private institutes (beginner to advanced; students and professionals)  
+- **Japan:** To university students
 
