@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-patents-amp-papers",
-          title: 'Patents &amp;amp; papers',
+        },{id: "projects-ppps",
+          title: 'PPPs',
           description: "Identifying Patent-Paper-Pairs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -51,17 +51,17 @@ ninja.data = [{
           title: 'Zotero',
           description: "Tutorial for the open-source bibliography and citation manager Zotero.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/a_project/";
             },},{id: "projects-chocolatey",
           title: 'Chocolatey',
           description: "how to use the package manager for Windows",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-scraping-patent-claims",
-          title: 'Scraping Patent Claims',
-          description: "extracting legal boundaries of inventions",
+              window.location.href = "/projects/b_project/";
+            },},{id: "projects-podcast-downloader-amp-tagger",
+          title: 'Podcast Downloader &amp;amp; Tagger',
+          description: "automating downloads, tagging, and file management for podcast episodes",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/c_project/";
             },},{id: "teaching-",
           title: '',
           description: "",
