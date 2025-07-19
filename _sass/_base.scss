@@ -1423,3 +1423,15 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+
+.teaching-block summary {
+  font-weight: 500;
+  font-size: 0.95rem;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+.teaching-block summary:hover {
+  text-decoration: underline;
+}
