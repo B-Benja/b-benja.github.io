@@ -9,3 +9,7 @@ related_publications: false
 external_url: https://b-benja.github.io/chocolatey_tutorial/
 redirect: true
 ---
+
+<script>
+  window.location.href = "https://b-benja.github.io/chocolatey_tutorial/";
+</script>
