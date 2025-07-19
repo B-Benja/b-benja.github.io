@@ -9,6 +9,8 @@ nav_order: 6
 ---
 
 ## University Teaching
+I’ve contributed to several university courses, ranging from lectures to seminars, teaching, project supervision, grading, and partial course organization.
+
 <ul class="teaching-list">
 
   <li class="teaching-block">
