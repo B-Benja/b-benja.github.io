@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tracing Science in Patents
-description: identifying patent–paper pairs through visual and textual overlap
+title: Patent-Paper-Pairs
+description:
 img: assets/img/ppp/coverimage.png
 importance: 1
 category: work

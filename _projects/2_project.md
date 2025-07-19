@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Scraping Patent Claims
-description: extracting legal boundaries of inventions
+title: Webscraping
+description: Scraping Patent Claims
 img: assets/img/claims_background.jpg
 importance: 2
 category: work
