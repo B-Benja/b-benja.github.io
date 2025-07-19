@@ -1,200 +1,221 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Benjamin Buettner",
+    "label": "Applied Economist, IP, Innovation Research and Data Science",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "I analyze how public science translates into innovation using IP data, machine learning, and econometrics. My work focuses on patent-paper links, disclosure, and diffusion barriers.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Eindhoven",
+      "countryCode": "NL",
+      "region": "North Brabant"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Eindhoven University of Technology",
+      "position": "Postdoctoral Researcher",
+      "url": "",
+      "startDate": "2024-02-01",
+      "summary": "Developed scalable methods to identify patent\u2013paper pairs using deep learning applied to text, figures, and metadata from patents and scientific articles.",
+      "highlights": [
+        "Trained neural networks for image- and text-based similarity",
+        "Built scalable pipelines to detect direct links between research and innovation",
+        "Constructed and shared datasets for use by the broader research community"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Eindhoven University of Technology",
+      "position": "PhD Candidate",
+      "url": "",
+      "startDate": "2019-06-01",
+      "summary": "Studied how diffusion barriers affect the reuse of scientific knowledge using patent data, machine learning, and econometrics.",
+      "highlights": [
+        "Analyzed machine translation effects on cross-border citation flows",
+        "Linked patent data to H-1B visa records to study talent flows",
+        "Used image recognition to detect overlap between paywalled articles and patents"
+      ]
+    },
+    {
+      "name": "Jiangsu University of Technology",
+      "position": "Academic & Team Leader",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Managed international academic team; taught cultural, sociological, and linguistic topics; German language instruction.",
+      "highlights": []
+    },
+    {
+      "name": "Sophia University",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2017-01-01",
+      "summary": "Part of research team evaluating western waste management concepts in East Asia.",
+      "highlights": [
+        "Collected data using T-SQL",
+        "Performed statistical evaluation using R and Python"
+      ]
+    },
+    {
+      "name": "Siemens AG",
+      "position": "Working Student, Export Control & Customs",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Assisted divisions worldwide on export compliance; analyzed data using Excel, VBA, and Access.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "FAU Erlangen-N\u00fcrnberg",
+      "area": "Sociology & Pedagogy",
+      "studyType": "B.A.",
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "FAU Erlangen-N\u00fcrnberg",
+      "area": "Sociology",
+      "studyType": "M.A.",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "SQL",
+        "R",
+        "Stata",
+        "Pandas",
+        "NumPy",
+        "BeautifulSoup",
+        "Selenium",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Neural Networks",
+        "TensorFlow",
+        "scikit-learn",
+        "NLP",
+        "spaCy",
+        "NLTK"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "keywords": [
+        "Panel Data Models",
+        "Causal Inference",
+        "Multivariate Analysis"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "LaTeX",
+        "Markdown",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "VBA"
       ]
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Business fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Advanced"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TIS PhD community committee",
+      "position": "Committee Member",
+      "startDate": "2021-01-01",
+      "endDate": "2024-01-01"
+    },
+    {
+      "organization": "ICU Tokyo \u2013 SUDre Workshop",
+      "position": "Workshop Organizer",
+      "startDate": "2017-01-01"
+    },
+    {
+      "organization": "AWO Germany",
+      "position": "Elderly Care Volunteer",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Home Automation"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Cultural Exchange"
+    },
+    {
+      "name": "Sports"
+    },
+    {
+      "name": "Woodworking"
+    },
+    {
+      "name": "Cooking"
     }
   ],
-  "projects": [
+  "publications": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Patents and knowledge diffusion: the impact of machine translation",
+      "publisher": "Research Policy",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1016/j.respol.2022.104584",
+      "summary": "Examines how machine translation affects knowledge diffusion across borders using patent citation data."
+    },
+    {
+      "name": "Deriving experience curves: a structured and critical approach applied to PV sector",
+      "publisher": "Technological Forecasting and Social Change",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Develops a structured methodology to derive experience curves in the photovoltaics sector."
+    },
+    {
+      "name": "Patent Disclosure and Migration",
+      "publisher": "Presented at EPIP 2023",
+      "releaseDate": "2023",
+      "summary": "Explores the role of examiners in signaling talent and knowledge transfer, using patent citation and visa data.",
+      "url": ""
+    },
+    {
+      "name": "Unveiling Hidden Connections Between Science and Innovation",
+      "publisher": "Presented at EPIP 2024",
+      "releaseDate": "2024",
+      "summary": "Proposes a novel method to detect patent\u2013paper pairs using deep learning.",
+      "url": "https://doi.org/10.1016/j.techfore.2024.123795"
+    },
+    {
+      "name": "Breaking the Paywall: Patents as Channels for Scientific Disclosure",
+      "publisher": "Presented at EPIP 2025",
+      "releaseDate": "2025",
+      "summary": "Investigates whether patents can substitute for access to closed-access publications.",
+      "url": ""
     }
   ]
 }
