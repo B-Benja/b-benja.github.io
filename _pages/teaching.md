@@ -41,10 +41,25 @@ Supervised/co-supervised BSc and MSc theses in economics and innovation studies.
 ---
 
 <details>
-  <summary>Student Evaluations (click to expand)</summary>
+  <summary>Student Evaluations – Selection (click to expand)</summary>
   <div style="margin-top: 10px;">
-    <img src="/assets/img/teaching/econ_pol.png" alt="Economic Policy" style="max-width: 100%; height: auto;">
-    <img src="/assets/img/teaching/network_soc.png" alt="Network society" style="max-width: 100%; height: auto;">
-    <img src="/assets/img/teaching/econ_inno_intro.png" alt="Economics of Innovation" style="max-width: 100%; height: auto;">
+    <p>
+      These are selected results from anonymous student evaluations for courses where I lectured or led seminars.
+    </p>
+
+    <figure style="margin-bottom: 15px;">
+      <img src="/assets/img/teaching/econ_pol.png" alt="Economic Policy" style="max-width: 100%; height: auto;">
+      <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Economic Policy</figcaption>
+    </figure>
+
+    <figure style="margin-bottom: 15px;">
+      <img src="/assets/img/teaching/network_soc.png" alt="Network Society: Citation Networks" style="max-width: 100%; height: auto;">
+      <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Network Society: Citation Networks</figcaption>
+    </figure>
+
+    <figure style="margin-bottom: 15px;">
+      <img src="/assets/img/teaching/econ_inno_intro.png" alt="Economics of Innovation: Introduction" style="max-width: 100%; height: auto;">
+      <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Economics of Innovation: Introduction</figcaption>
+    </figure>
   </div>
 </details>

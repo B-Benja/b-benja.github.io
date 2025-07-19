@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Economic Policy"
+description: "Seminar on microeconomic tools for policy"
 institution: "TU Eindhoven"
 role: "Seminar Instructor"
-type: "Seminar"
-focus: "economics, innovation policy, markets"
+category: university
+importance: 3
+img: /assets/img/teaching/econ_pol.png
 permalink: /teaching/econ-policy/
 ---
 
-I taught the seminar accompanying the main lecture, guiding students through core microeconomic concepts and their relevance for policy. Seminar sessions focused on applying theory to problem sets and discussing examples of basic economic concepts, market failures, and innovation policy.
+Seminar focused on applying economic theory to policy. Students worked on examples of market failures, R&D subsidies, and regulation.

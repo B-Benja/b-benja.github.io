@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Economics of Innovation: Introduction"
+description: "Seminar on why firms and countries innovate differently"
 institution: "TU Eindhoven"
 role: "Seminar Instructor"
-type: "Seminar"
-focus: "IP, innovation systems, diffusion"
+category: university
+importance: 2
+img: /assets/img/teaching/econ_inno_intro.png
 permalink: /teaching/econ-innovation/
 ---
 
-I taught the seminar accompanying the main lecture, helping students deepen their understanding of why firms, sectors, and countries innovate differently. The sessions were used to practice core concepts, work through empirical examples, and address student questions related to the lecture material.
+Accompanying seminar to the main lecture. Covered empirical examples and key concepts in innovation systems and diffusion.

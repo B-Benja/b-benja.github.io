@@ -1,15 +1,13 @@
 ---
 layout: page
 title: "Patents, Design Rights & Standards"
-role: "Teaching Assistant (Seminar)"
+description: "Seminar on IP strategy and standardization"
 institution: "TU Eindhoven"
-focus: "patent value, IP strategy, standardization politics, licensing pools"
+role: "Seminar Instructor"
+category: university
+importance: 4
+img: /assets/img/teaching/patents_standards.png
 permalink: /teaching/patents-standards/
 ---
 
-I acted as a teaching assistant in this seminar covering the strategic use of intellectual property rights and standardization in innovation. My tasks included reinforcing core concepts during seminar sessions, addressing student questions from the main lecture, and grading student presentations and final exams.
-
-*Focus areas included:*  
-– Patent value and strategic IP use  
-– Standardization processes and licensing pools  
-– Political economy of standard-setting and IP enforcement
+TA in a seminar on the strategic use of IP rights and standards. Supported students during seminars, answered lecture-related questions, and graded assignments.

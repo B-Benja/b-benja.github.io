@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Patent-Paper-Pairs
-description:
+title: Patents & papers
+description: Identifying Patent-Paper-Pairs
 img: assets/img/ppp/coverimage.png
 importance: 1
 category: work
