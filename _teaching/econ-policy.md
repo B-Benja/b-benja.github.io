@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Economic Policy"
-description: "Seminar on microeconomic tools for policy"
-institution: "TU Eindhoven"
-role: "Seminar Instructor"
+title: Economic Policy
+description: Seminar on microeconomic tools for policy
+institution: TU Eindhoven
+role: Seminar Instructor
 category: university
 importance: 3
 img: /assets/img/teaching/econ_pol.png
