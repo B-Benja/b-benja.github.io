@@ -15,8 +15,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
 
   <li class="teaching-block">
     <strong class="teaching-title">Network Society: Citation Networks</strong>
-    · Lecture<br>
-    <details style="display:inline;">
+    · Lecture · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color)">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught students how to analyze and interpret patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply concepts to real citation data.</p>
