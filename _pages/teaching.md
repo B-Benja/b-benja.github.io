@@ -7,69 +7,63 @@ display_categories: [university]
 nav: true
 nav_order: 6
 ---
-
 ## University Teaching
 
-<details open>
-  <summary><h2 style="display:inline">University Teaching</h2></summary>
-
-  <div class="teaching-block">
-    <p><strong>Network Society: Citation Networks</strong>
-      <span class="text-purple" style="font-weight:normal;">· Lecturer</span><br>
-      <em>TU Eindhoven</em>
-    </p>
-    <details>
-      <summary class="text-purple" style="cursor: pointer;">Details</summary>
+<div class="teaching-block">
+  <strong>Network Society: Citation Networks</strong>
+  <span class="text-purple" style="font-weight:normal;">· Lecturer</span><br>
+  <em>TU Eindhoven – 
+    <details style="display:inline;">
+      <summary class="text-purple" style="display:inline; cursor:pointer;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught students how to analyze and interpret patent-citation networks. Designed sessions on directed graphs, network metrics (degree, closeness, betweenness), and citation data structure. Students used <code>Pajek</code> to apply concepts to real citation data.</p>
         <p><small class="text-grey-dk"><em>Focus: citation graphs, connectivity, network metrics</em></small></p>
       </div>
     </details>
-  </div>
+  </em>
+</div>
 
-  <div class="teaching-block">
-    <p><strong>Patents, Design Rights & Standards</strong>
-      <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
-      <em>TU Eindhoven</em>
-    </p>
-    <details>
-      <summary class="text-teal" style="cursor: pointer;">Details</summary>
+<div class="teaching-block">
+  <strong>Patents, Design Rights & Standards</strong>
+  <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
+  <em>TU Eindhoven – 
+    <details style="display:inline;">
+      <summary class="text-teal" style="display:inline; cursor:pointer;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Supported teaching in a seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams.</p>
         <p><small class="text-grey-dk"><em>Focus: patent value, IP strategy, standardization politics, licensing pools</em></small></p>
       </div>
     </details>
-  </div>
+  </em>
+</div>
 
-  <div class="teaching-block">
-    <p><strong>Economics of Innovation: Introduction</strong>
-      <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
-      <em>TU Eindhoven</em>
-    </p>
-    <details>
-      <summary class="text-teal" style="cursor: pointer;">Details</summary>
+<div class="teaching-block">
+  <strong>Economics of Innovation: Introduction</strong>
+  <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
+  <em>TU Eindhoven – 
+    <details style="display:inline;">
+      <summary class="text-teal" style="display:inline; cursor:pointer;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led discussions.</p>
         <p><small class="text-grey-dk"><em>Focus: IP, innovation systems, diffusion</em></small></p>
       </div>
     </details>
-  </div>
+  </em>
+</div>
 
-  <div class="teaching-block">
-    <p><strong>Economic Policy</strong>
-      <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
-      <em>TU Eindhoven</em>
-    </p>
-    <details>
-      <summary class="text-teal" style="cursor: pointer;">Details</summary>
+<div class="teaching-block">
+  <strong>Economic Policy</strong>
+  <span class="text-teal" style="font-weight:normal;">· Seminar / TA</span><br>
+  <em>TU Eindhoven – 
+    <details style="display:inline;">
+      <summary class="text-teal" style="display:inline; cursor:pointer;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Ran seminars on microeconomic foundations of policy. Led exercises on market failures, basic economic theory, and the role of public policy in shaping innovation.</p>
         <p><small class="text-grey-dk"><em>Focus: economics, innovation policy, markets</em></small></p>
       </div>
     </details>
-  </div>
-
-</details>
+  </em>
+</div>
 
 
 
