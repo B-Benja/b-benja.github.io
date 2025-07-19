@@ -9,25 +9,31 @@ nav_order: 6
 ---
 
 ## University Teaching
+### Network Society: Citation Networks <span class="label label-purple">Lecturer</span>  
+**TU Eindhoven**  
+In this lecture-based course, I taught students how to analyze and interpret patent-citation networks. I designed and delivered sessions covering directed graphs, network metrics (e.g. degree, closeness, betweenness), and citation data structure. Students worked with the software package `Pajek` to apply these concepts to real-world citation data.  
+<span class="label label-light">Focus: citation graphs, connectivity, network metrics</span>
 
-<div class="projects">
-  {% assign sorted_teaching = site.teaching | sort: "importance" %}
-  {% if page.horizontal %}
-    <div class="container">
-      <div class="row row-cols-1 row-cols-md-2">
-        {% for t in sorted_teaching %}
-          {% include teaching_horizontal.liquid teaching=t %}
-        {% endfor %}
-      </div>
-    </div>
-  {% else %}
-    <div class="row row-cols-1 row-cols-md-3">
-      {% for t in sorted_teaching %}
-        {% include teaching.liquid teaching=t %}
-      {% endfor %}
-    </div>
-  {% endif %}
-</div>
+---
+
+### Patents, Design Rights & Standards <span class="label label-teal">Seminar / TA</span>  
+**TU Eindhoven**  
+I acted as a teaching assistant in this seminar covering the strategic use of IP rights and standardization in innovation. My tasks included reinforcing concepts during the seminars, addressing questions that came up during the main lecture, as well as grading presentations and exams.  
+<span class="label label-light">Focus: patent value, IP strategy, standardization politics, licensing pools</span>
+
+---
+
+### Economics of Innovation: Introduction <span class="label label-teal">Seminar / TA</span>  
+**TU Eindhoven**  
+I taught the seminar accompanying the main lecture, helping students deepen their understanding of why firms, sectors, and countries innovate differently. The sessions were used to practice core concepts, work through empirical examples, and address student questions related to the lecture material.  
+<span class="label label-light">Focus: IP, innovation systems, diffusion</span>
+
+---
+
+### Economic Policy <span class="label label-teal">Seminar / TA</span>  
+**TU Eindhoven**  
+I taught the seminar accompanying the main lecture, guiding students through core microeconomic concepts and their relevance for policy. Seminar sessions focused on applying theory to problem sets and discussing examples of basic economic concepts, market failures, and innovation policy.  
+<span class="label label-light">Focus: economics, innovation policy, markets</span>
 
 
 ---
