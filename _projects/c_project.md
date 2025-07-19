@@ -12,8 +12,8 @@ A small utility for archiving downloaded podcast episodes. It moves MP3s into st
 
 Originally built as a side project to locally organize and preserve podcast collections without relying on external platforms.
 
-The code is available on GitHub:  
-[github.com/B-Benja/podcast_mover_tagger](https://github.com/B-Benja/podcast_mover_tagger)
+The code is available on GitHub: [github.com/B-Benja/podcast_mover_tagger](https://github.com/B-Benja/podcast_mover_tagger)
+
 ---
 
 ### Features

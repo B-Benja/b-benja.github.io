@@ -16,14 +16,14 @@ nav_order: 6
     <div class="container">
       <div class="row row-cols-1 row-cols-md-2">
         {% for t in sorted_teaching %}
-          {% include projects_horizontal.liquid project=t %}
+          {% include teaching_horizontal.liquid teaching=t %}
         {% endfor %}
       </div>
     </div>
   {% else %}
     <div class="row row-cols-1 row-cols-md-3">
       {% for t in sorted_teaching %}
-        {% include projects.liquid project=t %}
+        {% include teaching.liquid teaching=t %}
       {% endfor %}
     </div>
   {% endif %}
