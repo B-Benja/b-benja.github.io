@@ -54,7 +54,7 @@ ninja.data = [{
               window.location.href = "/projects/a_project/";
             },},{id: "projects-chocolatey",
           title: 'Chocolatey',
-          description: "how to use the package manager for Windows",
+          description: "A short tutorial on how to use Chocolatey to install, update, and manage Windows programs from the command line.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/b_project/";
             },},{id: "projects-podcast-mover-amp-tagger",
