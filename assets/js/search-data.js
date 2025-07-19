@@ -57,9 +57,9 @@ ninja.data = [{
           description: "how to use the package manager for Windows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/b_project/";
-            },},{id: "projects-podcast-downloader-amp-tagger",
-          title: 'Podcast Downloader &amp;amp; Tagger',
-          description: "automating downloads, tagging, and file management for podcast episodes",
+            },},{id: "projects-podcast-mover-amp-tagger",
+          title: 'Podcast Mover &amp;amp; Tagger',
+          description: "batch-download, tag, and sort podcast episodes for long-term local use",
           section: "Projects",handler: () => {
               window.location.href = "/projects/c_project/";
             },},{id: "teaching-",
