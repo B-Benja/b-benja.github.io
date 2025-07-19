@@ -1,25 +1,56 @@
 ---
 layout: page
-title: Podcast Downloader & Tagger
-description: automating downloads, tagging, and file management for podcast episodes
+title: Podcast Mover & Tagger
+description: batch-download, tag, and sort podcast episodes for long-term local use
 img:
-importance: 4
+importance: 3
 category: other
 related_publications: false
 ---
 
-Originally built as a fun exercise to archive my favorite podcasts in a structured way, this tool automates the process of downloading, tagging, and organizing podcast episodes. It supports batch retrieval of past and future episodes and stores progress per show using lightweight JSON-based state tracking. Designed for private archival or structured listening collections, it helps avoid duplicate downloads and ensures consistent metadata.
+A small utility for archiving downloaded podcast episodes. It moves MP3s into structured folders and adds proper ID3 tags like title, artist, album, and track number—based on filename patterns and minimal user input.
 
-Each podcast is configured via a per-show `.json` config file that includes the feed URL, destination path, artist/album name, and tagging preferences. The script:
+Originally built as a side project to locally organize and preserve podcast collections without relying on external platforms.
 
-- Downloads all new episodes (or re-downloads on demand)
-- Tags `.mp3` files with artist, album, title, date, disc number (year), and track number
-- Moves completed files to a destination folder
-- Skips episodes already downloaded (based on title match)
+---
 
-The core logic uses `mutagen` for ID3 tagging and standard Python libraries for HTTP requests, parsing, and file management.
+### Features
 
-The script is designed for transparency and minimal setup. It can be run from cron or manually, and works on large backlogs as well as on a rolling basis.
+- Renames and tags `.mp3` files using [`mutagen`](https://mutagen.readthedocs.io/)
+- Automatically moves files into destination folders based on year and show name
+- Reads tag data from filenames or from `last_downloaded_title` in a local JSON cache
+- Supports album art embedding (optional)
+- Sends Discord notifications on errors (optional)
 
-Source available at:  
-[github.com/B-Benja/podcast_mover_tagger](https://github.com/B-Benja/podcast_mover_tagger)
+---
+
+### Example usage
+
+```bash
+$ python podcast_tagger.py --input ./downloads --output ./Podcasts
+```
+
+---
+
+### Sample tagging logic
+
+From `process_and_tag.py`:
+
+```python
+audio["title"] = title
+audio["artist"] = artist
+audio["album"] = artist
+audio["tracknumber"] = str(index)
+audio["discnumber"] = str(year)
+```
+
+---
+
+### Folder output structure
+
+```
+Podcasts/
+└── Hardcore Histoy/
+    ├── Ep 045 - History of Ideas.mp3
+    └── Ep 046 - What Is Truth.mp3
+```
