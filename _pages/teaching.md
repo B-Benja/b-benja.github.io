@@ -3,6 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Overview of my teaching experience, including lectures, seminars, thesis supervision, and language teaching in China and Japan.
+display_categories: [university]
 nav: true
 nav_order: 6
 ---
