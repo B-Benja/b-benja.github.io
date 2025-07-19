@@ -26,8 +26,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
 
   <li class="teaching-block">
     <strong class="teaching-title">Patents, Design Rights & Standards</strong>
-    · Seminar<br>
-    <details style="display:inline;">
+    · Seminar · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Supported teaching in a seminar on the strategic use of IP rights and standards. Reinforced lecture content, addressed student questions, and graded presentations and exams.</p>
@@ -38,8 +37,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
 
   <li class="teaching-block">
     <strong class="teaching-title">Economics of Innovation: Introduction</strong>
-    · Seminar<br>
-    <details style="display:inline;">
+    · Seminar · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Taught the seminar accompanying the main lecture. Sessions focused on explaining innovation dynamics across firms, sectors, and countries using empirical examples and student-led discussions.</p>
@@ -50,8 +48,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
 
   <li class="teaching-block">
     <strong class="teaching-title">Economic Policy</strong>
-    · Seminar<br>
-    <details style="display:inline;">
+    · Seminar · <details style="display:inline;">
       <summary style="display:inline; cursor:pointer; color: var(--global-theme-color); font-weight: 400;">Details</summary>
       <div style="margin-top: 0.5em;">
         <p>Ran seminars on microeconomic foundations of policy. Led exercises on market failures, basic economic theory, and the role of public policy in shaping innovation.</p>
@@ -64,9 +61,8 @@ I’ve contributed to several university courses, ranging from lectures to semin
 
 
 
-
 <details>
-  <summary style=color: var(--global-theme-color)>Student Evaluations – Selection (click to expand)</summary>
+  <summary style="color: var(--global-theme-color);">Student Evaluations – Selection (click to expand)</summary>
   <div style="margin-top: 10px;">
     <p>
       These are selected results from anonymous student evaluations for courses where I lectured or led seminars.
@@ -93,7 +89,7 @@ I’ve contributed to several university courses, ranging from lectures to semin
 ---
 
 ## Theses Supervision
-Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Topics include:  
+Supervised/co-supervised BSc and MSc theses in economics and innovation studies. Selection of topics:  
 - Fuel Cell and Battery Electric Vehicles  
 - Patent Landscaping on Structural Ice Moulds  
 - Tiny house movement Netherlands
