@@ -47,14 +47,14 @@ ninja.data = [{
           description: "extracting legal boundaries of inventions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-tracing-science-in-patents",
-          title: 'Tracing Science in Patents',
-          description: "identifying patent–paper pairs through visual and textual overlap",
+            },},{id: "projects-zotero",
+          title: 'Zotero',
+          description: "Tutorial for the open-source bibliography and citation manager Zotero.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/a/";
-            },},{id: "projects-scraping-patent-claims",
-          title: 'Scraping Patent Claims',
-          description: "extracting legal boundaries of inventions",
+            },},{id: "projects-chocolatey",
+          title: 'Chocolatey',
+          description: "how to use the package manager for Windows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/b/";
             },},{id: "projects-scraping-patent-claims",
