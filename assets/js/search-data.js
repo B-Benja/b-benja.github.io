@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-patent-paper-pairs",
-          title: 'Patent-Paper-Pairs',
-          description: "",
+        },{id: "projects-patents-amp-papers",
+          title: 'Patents &amp;amp; papers',
+          description: "Identifying Patent-Paper-Pairs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-webscraping",
@@ -64,22 +64,22 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "teaching-economics-of-innovation-introduction",
           title: 'Economics of Innovation: Introduction',
-          description: "",
+          description: "Seminar on why firms and countries innovate differently",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/econ-innovation/";
             },},{id: "teaching-economic-policy",
           title: 'Economic Policy',
-          description: "",
+          description: "Seminar on microeconomic tools for policy",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/econ-policy/";
             },},{id: "teaching-network-society-citation-networks",
           title: 'Network Society: Citation Networks',
-          description: "",
+          description: "Lecture on patent-citation network structure",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/network-society/";
             },},{id: "teaching-patents-design-rights-amp-standards",
           title: 'Patents, Design Rights &amp;amp; Standards',
-          description: "",
+          description: "Seminar on IP strategy and standardization",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/patents-standards/";
             },},{
