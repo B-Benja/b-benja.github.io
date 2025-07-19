@@ -46,9 +46,6 @@ The [Chocolatey Website](https://community.chocolatey.org/packages) lists all av
         {% include figure.liquid loading="eager" path="assets/img/small_projects/choco1.png" title="chocolatey" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
 
 For example, if you want to install [Firefox](https://community.chocolatey.org/packages/Firefox#install), you can find the relevant commands and additional parameters available for the installation command - e.g. to create a taskbar shortcut, configure auto update, etc.
