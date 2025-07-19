@@ -62,6 +62,26 @@ ninja.data = [{
           description: "extracting legal boundaries of inventions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/c/";
+            },},{id: "teaching-economics-of-innovation-introduction",
+          title: 'Economics of Innovation: Introduction',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/econ-innovation/";
+            },},{id: "teaching-economic-policy",
+          title: 'Economic Policy',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/econ-policy/";
+            },},{id: "teaching-network-society-citation-networks",
+          title: 'Network Society: Citation Networks',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/network-society/";
+            },},{id: "teaching-patents-design-rights-amp-standards",
+          title: 'Patents, Design Rights &amp;amp; Standards',
+          description: "",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/patents-standards/";
             },},{
         id: 'social-email',
         title: 'email',
