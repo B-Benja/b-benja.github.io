@@ -6,6 +6,5 @@ img: assets/img/project_covers/zotero.jpg
 importance: 1
 category: other
 related_publications: false
-external_url: https://b-benja.github.io/Bens_Zotero/
-redirect: true
+redirect: https://b-benja.github.io/Bens_Zotero/
 ---

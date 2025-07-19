@@ -11,12 +11,24 @@ nav_order: 6
 ## University Teaching
 
 <div class="projects">
-{% assign sorted_teaching = site.teaching | sort: "importance" %}
-{% for t in sorted_teaching %}
-  {% include projects.liquid project=t %}
-{% endfor %}
-
+  {% assign sorted_teaching = site.teaching | sort: "importance" %}
+  {% if page.horizontal %}
+    <div class="container">
+      <div class="row row-cols-1 row-cols-md-2">
+        {% for t in sorted_teaching %}
+          {% include projects_horizontal.liquid project=t %}
+        {% endfor %}
+      </div>
+    </div>
+  {% else %}
+    <div class="row row-cols-1 row-cols-md-3">
+      {% for t in sorted_teaching %}
+        {% include projects.liquid project=t %}
+      {% endfor %}
+    </div>
+  {% endif %}
 </div>
+
 
 ---
 
