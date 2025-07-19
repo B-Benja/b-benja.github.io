@@ -99,5 +99,5 @@ Supervised/co-supervised BSc and MSc theses in economics and innovation studies.
 ## Language Teaching
 Taught German as a foreign language in both formal and informal settings, focusing on communication, culture and context-specific language use.
 - **China:** At universities and private institutes (beginner to advanced; students and professionals)  
-- **Japan:** To university students
+- **Japan:** To university students (beginner to advanced)
 
