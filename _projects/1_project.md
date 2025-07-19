@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patents & papers
+title: PPPs
 description: Identifying Patent-Paper-Pairs
 img: assets/img/ppp/coverimage.png
 importance: 1

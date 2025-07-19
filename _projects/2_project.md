@@ -2,7 +2,7 @@
 layout: page
 title: Webscraping
 description: Scraping Patent Claims
-img: assets/img/ppp/claims_scraping.png.jpg
+img: assets/img/ppp/claims_scraping.png
 importance: 2
 category: work
 related_publications: false

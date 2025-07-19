@@ -2,7 +2,7 @@
 layout: page
 title: Chocolatey
 description: how to use the package manager for Windows
-img: assets/img/claims_background.jpg
+img:
 importance: 2
 category: other
 related_publications: false
