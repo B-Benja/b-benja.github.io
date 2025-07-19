@@ -26,7 +26,7 @@ I wrote a custom webscraper to extract the full claims section from full-text re
 
 This allows us to analyze not just *that* something was patented, but *what exactly* was claimed. Claims reveal functional boundaries, technical scope, and strategic framing—especially useful when combined with citation data, text similarity, or scientific linkage information.
 
-The tool is available on GitHub:  
+The code is available on GitHub:  
 [github.com/B-Benja/claims_scraper](https://github.com/B-Benja/claims_scraper)
 
 It is built for transparency, reproducibility, and integration into broader research pipelines focused on knowledge flows, IP strategy, and technology analysis.

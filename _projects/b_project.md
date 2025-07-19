@@ -6,8 +6,5 @@ img: assets/img/project_covers/chocolatey.jpg
 importance: 2
 category: other
 related_publications: false
+redirect: https://b-benja.github.io/chocolatey_tutorial/
 ---
-
-<script>
-  window.location.href = "https://b-benja.github.io/chocolatey_tutorial/";
-</script>
