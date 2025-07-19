@@ -62,26 +62,6 @@ ninja.data = [{
           description: "batch-download, tag, and sort podcast episodes for long-term local use",
           section: "Projects",handler: () => {
               window.location.href = "/projects/c_project/";
-            },},{id: "teaching-",
-          title: '',
-          description: "",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/econ-innovation/";
-            },},{id: "teaching-economic-policy",
-          title: 'Economic Policy',
-          description: "Seminar on microeconomic tools for policy",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/econ-policy/";
-            },},{id: "teaching-",
-          title: '',
-          description: "",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/network-society/";
-            },},{id: "teaching-patents-design-rights-amp-standards",
-          title: 'Patents, Design Rights &amp;amp; Standards',
-          description: "Seminar on IP strategy and standardization",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/patents-standards/";
             },},{
         id: 'social-email',
         title: 'email',
