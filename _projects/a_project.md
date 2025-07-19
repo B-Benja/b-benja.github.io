@@ -2,7 +2,7 @@
 layout: page
 title: Zotero
 description: Tutorial for the open-source bibliography and citation manager Zotero.
-img:
+img: assets/img/project_covers/zotero.jpg
 importance: 1
 category: other
 related_publications: false

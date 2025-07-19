@@ -2,7 +2,7 @@
 layout: page
 title: Podcast Mover & Tagger
 description: batch-download, tag, and sort podcast episodes for long-term local use
-img:
+img: assets/img/project_covers/podcast_scraper.jpg
 importance: 3
 category: other
 related_publications: false
