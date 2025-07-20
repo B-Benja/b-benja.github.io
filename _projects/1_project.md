@@ -6,6 +6,7 @@ img: assets/img/ppp/coverimage.png
 importance: 1
 category: work
 related_publications: true
+bibliography: /assets/bibliography/project_ppp.bib
 ---
 
 Patent–paper pairs (PPPs) are cases where a scientific publication and a patent disclose the same underlying research, often by the same team and funded by the same grant. These links matter: they allow us to trace how public science becomes part of applied technologies. But they’re hard to detect.
