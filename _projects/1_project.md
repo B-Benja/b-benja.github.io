@@ -6,14 +6,13 @@ img: assets/img/ppp/coverimage.png
 importance: 1
 category: work
 related_publications: true
-bibliography: /assets/bibliography/project_ppp.bib
 ---
 
 Patent–paper pairs (PPPs) are cases where a scientific publication and a patent disclose the same underlying research, often by the same team and funded by the same grant. These links matter: they allow us to trace how public science becomes part of applied technologies. But they’re hard to detect.
 
 The concept of PPPs has been central to empirical work on science–technology linkages. Early studies relied on manual matching or grant linkage to uncover cases where a publication and a patent stem from the same research project. PPPs are typically identified in biomedical fields, where researchers commonly publish and patent outputs from the same experiment or trial. These cases offer unique empirical traction for studying how codified scientific knowledge enters the patent system.
 
-{% cite --style apa-text murray2007a %} first formalized the idea by examining the consequences of simultaneous publication and patenting on knowledge diffusion. Lissoni et al. (2013) and Magerman et al. (2015) expanded this to larger samples, showing that PPPs offer a robust way to study commercialization patterns, dual disclosure strategies, and potential crowding effects on academic output. Marx and Fuegi (2020) emphasized that patents citing scientific articles---many of which correspond to PPPs---are associated with more novel and impactful inventions, suggesting that PPPs lie at the core of high-value knowledge flows.
+Murray and Stern (2007) first formalized the idea by examining the consequences of simultaneous publication and patenting on knowledge diffusion. Lissoni et al. (2013) and Magerman et al. (2015) expanded this to larger samples, showing that PPPs offer a robust way to study commercialization patterns, dual disclosure strategies, and potential crowding effects on academic output. Marx and Fuegi (2020) emphasized that patents citing scientific articles---many of which correspond to PPPs---are associated with more novel and impactful inventions, suggesting that PPPs lie at the core of high-value knowledge flows.
 
 Standard approaches to identifying PPPs rely on citations or metadata like shared authorship. But these signals are often suppressed or incomplete. Scientific papers are rarely cited in the patents they helped enable, especially when disclosure would threaten novelty. As a result, many PPPs remain hidden.
 
