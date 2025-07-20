@@ -35,4 +35,4 @@ To scale this matching process, we developed a deep learning pipeline. Figures a
 
 By focusing on shared content rather than metadata, this method captures a broader and more direct set of science–technology links. It enables large-scale identification of PPPs across disciplines, and offers a new lens to study how disclosed knowledge travels into use.
 
-The methodology was first introduced in {% cite buttner2024 %} and applied in {% cite buttner2025 --style apa-text %}.
+The methodology was first introduced in {% cite buttner2024 %} and applied in {% cite buttner2025 %}.
