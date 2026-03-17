@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a PhD candidate in economics at Eindhoven University of Technology. I study how barriers (like language, paywalls, or search costs) limit the diffusion and reuse of disclosed scientific and technical knowledge. I work with messy, large-scale data from patents, publications, and migration records, using econometrics, machine learning, and a fair amount of debugging.
+I’m a PhD candidate in economics at Eindhoven University of Technology. My research examines how barriers such as language, paywalls, and search costs limit the diffusion and reuse of scientific and technical knowledge.
 
-I’ve always liked figuring out how systems work—where they break, what gets lost, and what’s hidden in plain sight. That same mindset runs through my research, whether it’s tracking how ideas move across borders or why some knowledge ends up invisible.
+Much of my work links different large-scale data sources, especially patents, scientific publications, and migration records. Using econometric methods and some machine learning tools, I study how ideas move across borders, institutions, and technological fields.
 
-I’m also interested in how people and knowledge circulate between societies. Travel, tacit knowledge, and institutional quirks all shape how I think about diffusion and access.
+More broadly, I’m interested in how knowledge becomes visible and usable. Even when knowledge is formally disclosed, it does not necessarily become easy to find, access, or interpret. A large part of my research focuses on these gaps.
