@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "Overview of teaching experience, including university courses, thesis supervision, and language teaching in China and Japan.",
           section: "Navigation",
           handler: () => {
