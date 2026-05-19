@@ -1,0 +1,36 @@
+.teaching-list {
+  list-style: none;
+  padding-left: 0;
+
+  .teaching-block {
+    margin-bottom: 2rem;
+
+    .teaching-title {
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    details {
+      display: inline;
+
+      summary {
+        display: inline;
+        margin-left: 0.4em;
+        font-weight: 500;
+        font-size: 0.95rem;
+        cursor: pointer;
+
+        // Use theme accent color
+        color: var(--global-theme-color);
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      div {
+        margin-top: 0.5em;
+      }
+    }
+  }
+}
