@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a PhD candidate in economics at Eindhoven University of Technology. My research examines how barriers such as language, paywalls, and search costs limit the diffusion and reuse of scientific and technical knowledge.
+I'm a postdoctoral researcher in economics working on [SUSTECH](https://cordis.europa.eu/project/id/101224873), an ERC Synergy Grant investigating how inventors and firms choose which chemical compounds to develop, and why potentially safer alternatives are sometimes overlooked.
 
-Much of my work links different large-scale data sources, especially patents, scientific publications, and migration records. Using econometric methods and some machine learning tools, I study how ideas move across borders, institutions, and technological fields.
+I completed my PhD at Eindhoven University of Technology, where I studied how language barriers, paywalls, and search costs affect the diffusion and use of scientific and technical knowledge.
 
-More broadly, I’m interested in how knowledge becomes visible and usable. Even when knowledge is formally disclosed, it does not necessarily become easy to find, access, or interpret. A large part of my research focuses on these gaps.
+Most of my work involves linking large-scale datasets, particularly patents, scientific publications, and migration records, and using econometrics and machine learning to study knowledge flows and innovation.
