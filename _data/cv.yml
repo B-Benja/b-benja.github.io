@@ -1,140 +1,154 @@
 cv:
   name: Benjamin Buettner
   headline: Applied economics of Innovation & Data Scientist
-  location: Pisa, IT
-  social_networks: []
+  location: Pisa, Italy
+
   sections:
     Profile:
-    - I study how scientific and technical knowledge spreads and how inventors and firms decide which
-      technologies to develop. My research combines large-scale patent and publication data with econometrics
-      and machine learning. My current work focuses on technological choices and the incentives shaping
-      the development of safer and more sustainable chemicals.
+      - >-
+        I study how scientific and technical knowledge spreads and how inventors and firms
+        decide which technologies to develop. My research combines large-scale patent and
+        publication data with econometrics and machine learning. My current work focuses on
+        technological choices and the incentives shaping the development of safer and more
+        sustainable chemicals.
+
     Education:
-    - institution: FAU Erlangen-Nürnberg
-      area: Sociology & Pedagogy
-      start_date: '2011'
-      end_date: '2016'
-      degree: B.A.
-    - institution: FAU Erlangen-Nürnberg
-      area: Sociology
-      start_date: '2016'
-      end_date: '2018'
-      degree: M.A.
-    Experience:
-    - company: Scuola Superiore Sant'Anna
-      position: Postdoctoral Researcher
-      start_date: '2026'
-      summary: Researcher on [SUSTECH](https://cordis.europa.eu/project/id/101224873), an ERC Synergy
-        Grant investigating how inventors and firms choose which chemical compounds to develop, and why
-        potentially safer alternatives are sometimes overlooked.
-      highlights:
-      - Studying technological choices and the incentives influencing the development of chemical compounds
-      - Combining patent data with information on chemical structures and predicted properties
-      - Examining how economic incentives and regulation influence the direction of technological change
-    - company: Eindhoven University of Technology
-      position: Postdoctoral Researcher
-      start_date: '2024'
-      summary: Developed scalable methods to identify patent–paper pairs using deep learning applied to
-        text, figures, and metadata from patents and scientific articles.
-      highlights:
-      - Trained neural networks for image- and text-based similarity
-      - Built scalable pipelines to detect direct links between research and innovation
-      - Constructed and shared datasets for use by the broader research community
-    - company: Eindhoven University of Technology
-      position: PhD Candidate
-      start_date: '2019'
-      summary: Studied how diffusion barriers affect the reuse of scientific knowledge using patent data,
-        machine learning, and econometrics.
-      highlights:
-      - Analyzed machine translation effects on cross-border citation flows
-      - Linked patent data to H-1B visa records to study talent flows
-      - Used image recognition to detect overlap between paywalled articles and patents
-    - company: Jiangsu University of Technology
-      position: Lecturer & Team Leader
-      start_date: '2017'
-      end_date: '2019'
-      summary: Managed international academic team; taught cultural, sociological, and linguistic topics;
-        German language instruction.
-    - company: Sophia University
-      position: Researcher
-      start_date: '2017'
-      end_date: '2017'
-      summary: Part of research team evaluating western waste management concepts in East Asia.
-      highlights:
-      - Collected data using T-SQL
-      - Performed statistical evaluation using R and Python
-    - company: Siemens AG
-      position: Working Student, Export Control & Customs
-      start_date: '2015'
-      end_date: '2017'
-      summary: Assisted divisions worldwide on export compliance; analyzed data using Excel, VBA, and
-        Access.
-    Volunteer:
-    - company: TIS PhD community committee
-      position: Committee Founder
-      start_date: '2021'
-      end_date: '2024'
-    - company: ICU Tokyo – SUDre Workshop
-      position: Workshop Organizer
-      start_date: '2017'
-      end_date: '2017'
-    - company: AWO Germany
-      position: Elderly Care Volunteer
-      start_date: '2010'
-      end_date: '2012'
-    - company: AWO Germany
-      position: Caretaker for persons with disabilities
-      start_date: '2008'
-      end_date: '2010'
+      - institution: Eindhoven University of Technology
+        area: Economics
+        degree: PhD
+        start_date: '2019'
+        end_date: '2026'
+      - institution: FAU Erlangen-Nürnberg
+        area: Sociology
+        degree: M.A.
+        start_date: '2016'
+        end_date: '2018'
+      - institution: FAU Erlangen-Nürnberg
+        area: Sociology & Pedagogy
+        degree: B.A.
+        start_date: '2011'
+        end_date: '2016'
+
+    Academic Positions:
+      - company: Scuola Superiore Sant'Anna
+        position: Postdoctoral Researcher
+        start_date: '2026'
+        summary: >-
+          Working on [SUSTECH](https://cordis.europa.eu/project/id/101224873), an ERC
+          Synergy Grant studying how inventors and firms choose which chemical compounds
+          to develop and why potentially safer alternatives are sometimes overlooked.
+        highlights:
+          - Studying technological choices and incentives influencing chemical innovation.
+          - Linking patent data to chemical structures and predicted properties.
+          - Examining the role of economic incentives and regulation in technological choices.
+      - company: Eindhoven University of Technology
+        position: Postdoctoral Researcher
+        start_date: '2024'
+        end_date: '2026'
+        summary: >-
+          Developed methods to identify patent–paper pairs by matching text, figures,
+          and metadata from patents and scientific articles using deep learning.
+        highlights:
+          - Trained neural networks for image- and text-based similarity.
+          - Built pipelines to identify links between scientific publications and patents.
+          - Constructed datasets to study the diffusion of scientific knowledge.
+      - company: Eindhoven University of Technology
+        position: PhD Candidate
+        start_date: '2019'
+        end_date: '2026'
+        summary: >-
+          Studied how language barriers, paywalls, and search costs affect the diffusion
+          and use of scientific and technical knowledge.
+        highlights:
+          - Studied machine translation and cross-border patent citations.
+          - Linked patent data to H-1B visa applications to study international recruitment.
+          - Used image recognition to identify patent–paper pairs.
+
+    Earlier Professional Experience:
+      - company: Jiangsu University of Technology
+        position: Lecturer & Team Leader
+        start_date: '2017'
+        end_date: '2019'
+        summary: >-
+          Managed an international academic team; taught cultural, sociological, and
+          linguistic topics, including German language instruction.
+      - company: Sophia University
+        position: Researcher
+        start_date: '2017'
+        end_date: '2017'
+        summary: Research on Western waste-management concepts in East Asia.
+        highlights:
+          - Collected data using T-SQL.
+          - Conducted statistical analysis in R and Python.
+      - company: Siemens AG
+        position: Working Student, Export Control & Customs
+        start_date: '2015'
+        end_date: '2017'
+        summary: >-
+          Supported export-control and customs compliance; analyzed data with Excel,
+          VBA, and Access.
+
     Publications:
-    - title: 'Patents and knowledge diffusion: the impact of machine translation'
-      url: https://doi.org/10.1016/j.respol.2022.104584
-      summary: Examines how machine translation affects knowledge diffusion across borders using patent
-        citation data.
-      authors: []
-      journal: Research Policy
-      date: '2022'
-    - title: 'Deriving experience curves: a structured and critical approach applied to PV sector'
-      summary: Develops a structured methodology to derive experience curves in the photovoltaics sector.
-      authors: []
-      journal: Technological Forecasting and Social Change
-      date: '2024'
-    - title: Patent Disclosure and Migration
-      summary: Explores the role of examiners in signaling talent and knowledge transfer, using patent
-        citation and visa data.
-      authors: []
-      journal: Presented at EPIP 2023
-      date: '2023'
-    - title: Unveiling Hidden Connections Between Science and Innovation
-      url: https://doi.org/10.1016/j.techfore.2024.123795
-      summary: Proposes a novel method to detect patent–paper pairs using deep learning.
-      authors: []
-      journal: Presented at EPIP 2024
-      date: '2024'
-    - title: 'Breaking the Paywall: Patents as Channels for Scientific Disclosure'
-      summary: Investigates whether patents can substitute for access to closed-access publications.
-      authors: []
-      journal: Presented at EPIP 2025
-      date: '2025'
-    Skills:
-    - label: Programming
-      details: Python, SQL, R, Stata, Pandas, NumPy, BeautifulSoup, Selenium, Matplotlib
-    - label: Machine Learning
-      details: Neural Networks, TensorFlow, scikit-learn, NLP, spaCy, NLTK
-    - label: Statistics
-      details: Panel Data Models, Causal Inference, Multivariate Analysis
-    - label: Tools
-      details: LaTeX, Markdown, Excel, Access, PowerPoint, VBA
+      - name: 'Patents and knowledge diffusion: the impact of machine translation'
+        date: '2022'
+        url: https://doi.org/10.1016/j.respol.2022.104584
+        summary: 'Research Policy. Examines the effects of machine translation on cross-border patent citations.'
+      - name: 'Deriving experience curves: a structured and critical approach applied to PV sector'
+        date: '2024'
+        summary: >-
+          Technological Forecasting and Social Change. Develops a structured approach
+          to experience curves in photovoltaics.
+
+    Conference Papers and Presentations:
+      - name: Patent Disclosure and Migration
+        date: '2023'
+        summary: >-
+          Presented at EPIP 2023. Examines patent examiner citations, knowledge exposure,
+          and international recruitment.
+      - name: Unveiling Hidden Connections Between Science and Innovation
+        date: '2024'
+        url: https://doi.org/10.1016/j.techfore.2024.123795
+        summary: >-
+          Presented at EPIP 2024. Uses deep learning to identify patent–paper pairs.
+      - name: 'Breaking the Paywall: Patents as Channels for Scientific Disclosure'
+        date: '2025'
+        summary: >-
+          Presented at EPIP 2025. Studies whether patents provide alternative access
+          to knowledge disclosed in paywalled scientific papers.
+
+    Academic Service and Event Organization:
+      - name: TIS PhD Community Committee
+        start_date: '2021'
+        end_date: '2024'
+        summary: Committee founder.
+      - name: ICU Tokyo – SUDre Workshop
+        date: '2017'
+        summary: Workshop organizer.
+
+    Community Volunteering:
+      - name: AWO Germany – Elderly Care
+        start_date: '2010'
+        end_date: '2012'
+        summary: Volunteer.
+      - name: AWO Germany – Support for People with Disabilities
+        start_date: '2008'
+        end_date: '2010'
+        summary: Caretaker.
+
+    Technical Skills:
+      - bullet: '**Programming:** Python, SQL, R, Stata.'
+      - bullet: '**Data analysis and scraping:** pandas, NumPy, BeautifulSoup, Selenium, matplotlib.'
+      - bullet: '**Machine learning and NLP:** neural networks, TensorFlow, scikit-learn, spaCy, NLTK.'
+      - bullet: '**Econometrics and statistics:** panel data models, causal inference, multivariate analysis.'
+      - bullet: '**Other tools:** LaTeX, Markdown, Excel, Access, PowerPoint, VBA.'
+
     Languages:
-    - name: German
-      summary: Native
-    - name: English
-      summary: Business fluent
-    - name: Chinese
-      summary: Advanced
+      - label: German
+        details: Native
+      - label: English
+        details: Business fluent
+      - label: Chinese
+        details: Advanced
+
     Interests:
-    - name: Home Automation
-    - name: Cultural Exchange
-    - name: Sports
-    - name: Woodworking
-    - name: Cooking
+      - bullet: Home automation, cultural exchange, hiking, sports, woodworking, cooking.
