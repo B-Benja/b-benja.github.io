@@ -1,134 +1,203 @@
 cv:
   name: Benjamin Buettner
   headline: Applied economics of Innovation & Data Scientist
-  location: Pisa, Italy
+  location: Pisa, IT
+
   sections:
-    Profile:
-    - I study how scientific and technical knowledge spreads and how inventors and firms decide which
-      technologies to develop. My research combines large-scale patent and publication data with econometrics
-      and machine learning. My current work focuses on technological choices and the incentives shaping
-      the development of safer and more sustainable chemicals.
     Education:
-    - institution: Eindhoven University of Technology
-      area: Economics
-      degree: PhD
-      start_date: '2019'
-      end_date: '2026'
-    - institution: FAU Erlangen-Nürnberg
-      area: Sociology
-      degree: M.A.
-      start_date: '2016'
-      end_date: '2018'
-    - institution: FAU Erlangen-Nürnberg
-      area: Sociology & Pedagogy
-      degree: B.A.
-      start_date: '2011'
-      end_date: '2016'
-    Academic Positions:
-    - company: Scuola Superiore Sant'Anna
-      position: Postdoctoral Researcher
-      start_date: '2026'
-      summary: Working on [SUSTECH](https://cordis.europa.eu/project/id/101224873), an ERC Synergy Grant
-        studying how inventors and firms choose which chemical compounds to develop and why potentially
-        safer alternatives are sometimes overlooked.
-      highlights:
-      - Studying technological choices and incentives influencing chemical innovation.
-      - Linking patent data to chemical structures and predicted properties.
-      - Examining the role of economic incentives and regulation in technological choices.
-    - company: Eindhoven University of Technology
-      position: Postdoctoral Researcher
-      start_date: '2024'
-      end_date: '2026'
-      summary: Developed methods to identify patent–paper pairs by matching text, figures, and metadata
-        from patents and scientific articles using deep learning.
-      highlights:
-      - Trained neural networks for image- and text-based similarity.
-      - Built pipelines to identify links between scientific publications and patents.
-      - Constructed datasets to study the diffusion of scientific knowledge.
-    - company: Eindhoven University of Technology
-      position: PhD Candidate
-      start_date: '2019'
-      end_date: '2026'
-      summary: Studied how language barriers, paywalls, and search costs affect the diffusion and use
-        of scientific and technical knowledge.
-      highlights:
-      - Studied machine translation and cross-border patent citations.
-      - Linked patent data to H-1B visa applications to study international recruitment.
-      - Used image recognition to identify patent–paper pairs.
-    Earlier Professional Experience:
-    - company: Jiangsu University of Technology
-      position: Lecturer & Team Leader
-      start_date: '2017'
-      end_date: '2019'
-      summary: Managed an international academic team; taught cultural, sociological, and linguistic topics,
-        including German language instruction.
-    - company: Sophia University
-      position: Researcher
-      start_date: '2017'
-      end_date: '2017'
-      summary: Research on Western waste-management concepts in East Asia.
-      highlights:
-      - Collected data using T-SQL.
-      - Conducted statistical analysis in R and Python.
-    - company: Siemens AG
-      position: Working Student, Export Control & Customs
-      start_date: '2015'
-      end_date: '2017'
-      summary: Supported export-control and customs compliance; analyzed data with Excel, VBA, and Access.
-    Publications:
-    - name: 'Patents and knowledge diffusion: the impact of machine translation'
-      date: '2022'
-      url: https://doi.org/10.1016/j.respol.2022.104584
-      summary: Research Policy. Examines the effects of machine translation on cross-border patent citations.
-    - name: 'Deriving experience curves: a structured and critical approach applied to PV sector'
-      date: '2024'
-      summary: Technological Forecasting and Social Change. Develops a structured approach to experience
-        curves in photovoltaics.
-    Conference Papers and Presentations:
-    - name: Patent Disclosure and Migration
-      date: '2023'
-      summary: Presented at EPIP 2023. Examines patent examiner citations, knowledge exposure, and international
-        recruitment.
-    - name: Unveiling Hidden Connections Between Science and Innovation
-      date: '2024'
-      url: https://doi.org/10.1016/j.techfore.2024.123795
-      summary: Presented at EPIP 2024. Uses deep learning to identify patent–paper pairs.
-    - name: 'Breaking the Paywall: Patents as Channels for Scientific Disclosure'
-      date: '2025'
-      summary: Presented at EPIP 2025. Studies whether patents provide alternative access to knowledge
-        disclosed in paywalled scientific papers.
-    Academic Service and Event Organization:
-    - name: TIS PhD Community Committee
-      start_date: '2021'
-      end_date: '2024'
-      summary: Committee founder.
-    - name: ICU Tokyo – SUDre Workshop
-      date: '2017'
-      summary: Workshop organizer.
+      - institution: Eindhoven University of Technology
+        area: Economics
+        degree: PhD
+        start_date: 2019
+        end_date: 2026
+
+      - institution: FAU Erlangen-Nürnberg
+        area: Sociology
+        degree: M.A.
+        start_date: 2016
+        end_date: 2018
+
+      - institution: FAU Erlangen-Nürnberg
+        area: Sociology & Pedagogy
+        degree: B.A.
+        start_date: 2011
+        end_date: 2016
+
+    Experience:
+      - company: Scuola Superiore Sant'Anna
+        position: Postdoctoral Researcher
+        location: Pisa, Italy
+        start_date: 2026
+        url: https://cordis.europa.eu/project/id/101224873
+        summary: >-
+          Researcher on SUSTECH, an ERC Synergy Grant investigating how inventors
+          and firms choose which chemical compounds to develop, and why potentially
+          safer alternatives are sometimes overlooked.
+        highlights:
+          - Studying technological choices and the incentives influencing the development of chemical compounds
+          - Combining patent data with information on chemical structures and predicted properties
+          - Examining how economic incentives and regulation influence the direction of technological change
+
+      - company: Eindhoven University of Technology
+        position: Postdoctoral Researcher
+        start_date: 2024
+        end_date: 2026
+        summary: >-
+          Developed scalable methods to identify patent–paper pairs using deep learning
+          applied to text, figures, and metadata from patents and scientific articles.
+        highlights:
+          - Trained neural networks for image- and text-based similarity
+          - Built scalable pipelines to detect direct links between research and innovation
+          - Constructed and shared datasets for use by the broader research community
+
+      - company: Eindhoven University of Technology
+        position: PhD Candidate
+        start_date: 2019
+        end_date: 2026
+        summary: >-
+          Studied how diffusion barriers affect the reuse of scientific knowledge
+          using patent data, machine learning, and econometrics.
+        highlights:
+          - Analyzed machine translation effects on cross-border citation flows
+          - Linked patent data to H-1B visa records to study talent flows
+          - Used image recognition to detect overlap between paywalled articles and patents
+
+      - company: Jiangsu University of Technology
+        position: Lecturer & Team Leader
+        start_date: 2017
+        end_date: 2019
+        summary: >-
+          Managed an international academic team; taught cultural, sociological,
+          and linguistic topics, including German language instruction.
+
+      - company: Sophia University
+        position: Researcher
+        start_date: 2017
+        end_date: 2017
+        summary: >-
+          Participated in research evaluating Western waste management concepts in East Asia.
+        highlights:
+          - Collected data using T-SQL
+          - Performed statistical analysis using R and Python
+
+      - company: Siemens AG
+        position: Working Student, Export Control & Customs
+        start_date: 2015
+        end_date: 2017
+        summary: >-
+          Assisted divisions worldwide on export compliance; analyzed data using Excel,
+          VBA, and Access.
+
+    # Use one-line entries in these custom sections. al-folio's website renderer
+    # displays label/details here; Volunteer would be merged into Experience.
+    Academic Service:
+      - label: TIS PhD community committee
+        details: Committee Founder (2021–2024)
+      - label: ICU Tokyo – SUDre Workshop
+        details: Workshop Organizer (2017)
+
     Community Volunteering:
-    - name: AWO Germany – Elderly Care
-      start_date: '2010'
-      end_date: '2012'
-      summary: Volunteer.
-    - name: AWO Germany – Support for People with Disabilities
-      start_date: '2008'
-      end_date: '2010'
-      summary: Caretaker.
+      - label: AWO Germany — Elderly Care
+        details: Volunteer (2010–2012)
+      - label: AWO Germany — Disability Support
+        details: Caretaker for persons with disabilities (2008–2010)
+
+    Publications:
+      - title: 'Patents and knowledge diffusion: the impact of machine translation'
+        authors:
+          - Benjamin Buettner
+          - Murat Firat
+          - Emilio Raiteri
+        publisher: Research Policy
+        journal: Research Policy
+        releaseDate: '2022'
+        date: '2022'
+        url: https://doi.org/10.1016/j.respol.2022.104584
+        summary: >-
+          Examines how machine translation affects knowledge diffusion across borders
+          using patent citation data.
+
+      - title: 'Deriving experience curves: a structured and critical approach applied to PV sector'
+        authors:
+          - Prapti Maharjan
+          - Mara Hauck
+          - Arjan Kirkels
+          - Benjamin Buettner
+          - Heleen de Coninck
+        publisher: Technological Forecasting and Social Change
+        journal: Technological Forecasting and Social Change
+        releaseDate: '2024'
+        date: '2024'
+        url: https://doi.org/10.1016/j.techfore.2024.123795
+        summary: >-
+          Develops a structured methodology to derive experience curves in the photovoltaics sector.
+
+      - title: Patent Disclosure and Migration
+        authors:
+          - Benjamin Buettner
+          - Emilio Raiteri
+          - Rudi Bekkers
+        publisher: Presented at EPIP 2023
+        journal: Presented at EPIP 2023
+        releaseDate: '2023'
+        date: '2023'
+        summary: >-
+          Explores the role of patent examiners in signaling talent and knowledge transfer,
+          using patent citation and visa data.
+
+      - title: Unveiling Hidden Connections Between Science and Innovation
+        authors:
+          - Benjamin Buettner
+          - Emilio Raiteri
+        publisher: Presented at EPIP 2024
+        journal: Presented at EPIP 2024
+        releaseDate: '2024'
+        date: '2024'
+        summary: >-
+          Proposes a method to detect patent–paper pairs using deep learning.
+
+      - title: 'Breaking the Paywall: Patents as Channels for Scientific Disclosure'
+        authors:
+          - Benjamin Buettner
+          - Emilio Raiteri
+        publisher: Presented at EPIP 2025
+        journal: Presented at EPIP 2025
+        releaseDate: '2025'
+        date: '2025'
+        summary: >-
+          Investigates whether patents can substitute for access to closed-access publications.
+
+    # name/keywords are read by the al-folio website Skills template.
+    # label/details also allow RenderCV to recognize each entry for PDF output.
     Skills:
-    - label: Programming
-      details: Python, SQL, R, Stata, pandas, NumPy, BeautifulSoup, Selenium, matplotlib
-    - label: Machine learning and NLP
-      details: Neural networks, TensorFlow, scikit-learn, NLP, spaCy, NLTK
-    - label: Econometrics and statistics
-      details: Panel data models, causal inference, multivariate analysis
-    - label: Other tools
-      details: LaTeX, Markdown, Excel, Access, PowerPoint, VBA
+      - name: Programming
+        keywords: [Python, SQL, R, Stata, Pandas, NumPy, BeautifulSoup, Selenium, Matplotlib]
+        label: Programming
+        details: Python, SQL, R, Stata, Pandas, NumPy, BeautifulSoup, Selenium, Matplotlib
+
+      - name: Machine Learning
+        keywords: [Neural Networks, TensorFlow, scikit-learn, NLP, spaCy, NLTK]
+        label: Machine Learning
+        details: Neural Networks, TensorFlow, scikit-learn, NLP, spaCy, NLTK
+
+      - name: Statistics
+        keywords: [Panel Data Models, Causal Inference, Multivariate Analysis]
+        label: Statistics
+        details: Panel Data Models, Causal Inference, Multivariate Analysis
+
+      - name: Tools
+        keywords: [LaTeX, Markdown, Excel, Access, PowerPoint, VBA]
+        label: Tools
+        details: LaTeX, Markdown, Excel, Access, PowerPoint, VBA
+
     Languages:
-    - label: German
-      details: Native
-    - label: English
-      details: Business fluent
-    - label: Chinese
-      details: Advanced
+      - name: German
+        summary: Native
+      - name: English
+        summary: Business fluent
+      - name: Chinese
+        summary: Advanced
+
     Interests:
-    - bullet: Home automation, cultural exchange, sports, woodworking, cooking.
+      - name: Outside research
+        keywords: [Home Automation, Cultural Exchange, Sports, Woodworking, Cooking]
