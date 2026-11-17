@@ -45,6 +45,10 @@ scholar_userid: 8-m27h4AAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
+SSSA: # can be any name here other than the ones already defined above
+  logo: https://upload.wikimedia.org/wikipedia/commons/0/09/Sant%27Anna_School_of_Advanced_Studies_Logo_ENG.png # can be png, svg, jpg
+  title: SSSA
+  url: https://www.santannapisa.it/it/benjamin-buettner
 TUe: # can be any name here other than the ones already defined above
   logo: https://www.tue.nl/favicon-64.ico # can be png, svg, jpg
   title: TU/e
