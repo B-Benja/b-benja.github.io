@@ -3,10 +3,16 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Overview of teaching experience, including university courses, thesis supervision, and language teaching in China and Japan.
-display_categories: [university]
 nav: true
 nav_order: 6
+calendar: true
 ---
+
+{% comment %}
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+
+{% include courses.liquid %}
+{% endcomment %}
 
 ## University Teaching
 
@@ -102,3 +108,4 @@ Supervision and co-supervision of BSc and MSc theses in economics and innovation
 **German as a Foreign Language**  
 - **China**: University and private institutes, beginner to advanced; focus on communication and cultural context  
 - **Japan**: University-level instruction, beginner to advanced; tailored for academic and professional settings
+

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool¹ projects.
 nav: true
 nav_order: 3
-display_categories: [work, other]
+display_categories: [work, fun]
 horizontal: false
 ---
 
@@ -63,5 +63,4 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
 <p><small>¹ I know, I know, it's a weird definition of fun...</small></p>
